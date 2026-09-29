@@ -132,13 +132,7 @@ By the end of this program, you will have:
 
 ## Contact
 
-For queries or guidance:
-
-| Name | Role | Phone | GitHub | LinkedIn |
-| ---- | ---- | ----- | ------ | -------- |
-| Ram Upadhyay | Lead, codeˣ 3.0 | +91 62654 16773 | [Ram-ui31](https://github.com/Ram-ui31) | [ramupadhyayy](https://www.linkedin.com/in/ramupadhyayy/) |
-| Ankur Singh | President, CSESA | +91 98711 08975 | [ankur556](https://github.com/ankur556) | [ankur-singh](https://www.linkedin.com/in/ankur-singh-522331340/) |
-
+For queries or guidance don't hesitate to ask us in the community!
 ---
 
 ## Acknowledgements
