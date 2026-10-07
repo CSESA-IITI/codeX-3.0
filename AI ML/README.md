@@ -12,7 +12,7 @@ PS0 has two parts. Do the reading in **Start here** (below) alongside it.
 
 ### Part A – The question set ([PS0_ML_as_you_need_it.pdf](./PS0_ML_as_you_need_it.pdf))
 Eight pen-and-paper problems on the foundations: **neural networks**, **gradient descent**, **loss functions** and **basic ML ideas** (classification vs regression, parameters vs hyperparameters).  
-Attempt it seriously — it builds the intuition everything else depends on — but it is **not compulsory**.
+Attempt it seriously guys,it builds the intuition everything else depends on. But it is **not compulsory**.
 
 ### Part B – Hyperparameter tuning ([cifar100_hyperparameter_tuning.ipynb](./cifar100_hyperparameter_tuning.ipynb))
 A ready-made CNN that classifies the 100 object classes of CIFAR-100. The model code is given; **your job is to improve its validation accuracy by tuning hyperparameters.**
@@ -23,7 +23,7 @@ A ready-made CNN that classifies the 100 object classes of CIFAR-100. The model 
 4. Use the results table and learning curves (Step 6) to spot what helps and what hurts.
 5. When you're done, evaluate your best model on the test set **once** (Step 7).
 
-Download your experiment log (`experiment_log.csv`) before the Colab session ends — Colab deletes files when it disconnects.
+Download your experiment log (`experiment_log.csv`) before the Colab session ends , Colab deletes files when it disconnects.
 
 ---
 
