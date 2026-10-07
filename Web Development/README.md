@@ -16,6 +16,21 @@ We'll keep it approachable and fun. There are plenty of great resources out ther
 
 ---
 
+## Problem Statements
+
+The full briefs, requirements and acceptance criteria are in [web pses.md](./web%20pses.md). Each PS builds on the one before it, so do them in order.
+
+| PS | Project | What you'll build | Tech |
+| -- | ------- | ----------------- | ---- |
+| 1 | **Online Course Registration Form** | An accessible sign-up form with semantic structure, labelled fields and built-in browser validation | HTML only |
+| 2 | **Responsive Product Showcase Page** | A store landing page with a sticky navbar, hero section and product grid that adapts from mobile to desktop | HTML + CSS |
+| 3 | **Task Manager with Local Storage** | A to-do app with add, edit, delete, filters and a live counter, which remembers tasks after the browser closes | HTML, CSS, vanilla JS |
+| 4 | **Weather Dashboard** | A live weather app using a public API, with a 5-day forecast, °C/°F toggle, geolocation, recent searches and proper loading/error states | JS + `fetch`/`async-await` |
+
+Every PS also has a **bonus** task if you want to push further.
+
+---
+
 ## Resources
 
 - [freeCodeCamp](https://www.freecodecamp.org/) – a full, free curriculum with certifications.  
@@ -27,4 +42,4 @@ We'll keep it approachable and fun. There are plenty of great resources out ther
 
 ---
 
-*Problem statements coming soon.*
+*More problem statements coming soon.*
