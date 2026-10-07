@@ -17,7 +17,7 @@ Attempt it seriously guys,it builds the intuition everything else depends on. Bu
 ### Part B – Hyperparameter tuning ([cifar100_hyperparameter_tuning.ipynb](./cifar100_hyperparameter_tuning.ipynb))
 A ready-made CNN that classifies the 100 object classes of CIFAR-100. The model code is given; **your job is to improve its validation accuracy by tuning hyperparameters.**
 
-1. Open the notebook in [Google Colab](https://colab.research.google.com/) and switch to a GPU (**Runtime → Change runtime type → T4 GPU**).
+1. [Open the notebook in Google Colab](https://colab.research.google.com/github/CSESA-IITI/codeX-3.0/blob/main/AI%20ML/cifar100_hyperparameter_tuning.ipynb) and switch to a GPU (**Runtime → Change runtime type → T4 GPU**).
 2. Run Steps 0–4 once to get the **baseline** accuracy — the number to beat.
 3. In Step 5, change **one hyperparameter at a time** (learning rate, dropout, augmentation, model size…) and write a short note on what you changed and why. Every run is logged automatically.
 4. Use the results table and learning curves (Step 6) to spot what helps and what hurts.
