@@ -13,6 +13,16 @@ Pick **one** stack below to start — Kotlin for native Android, or Flutter / Re
 
 ---
 
+## Problem Statements
+
+- [PS1: Habit Tracker](./PS1_Habit_Tracker.md)
+- [PS2: Group Expense Splitter](./PS2_Expense_Splitter.md)
+- [PS3: Campus Lost & Found](./PS3_Campus_Lost_and_Found.md)
+
+Each brief describes the app, objectives, features, and suggested technology stack.
+
+---
+
 ## Resources
 
 ### Kotlin (native Android)
@@ -30,6 +40,3 @@ Pick **one** stack below to start — Kotlin for native Android, or Flutter / Re
 - [React Native Express](https://www.reactnative.express/) – a beginner-friendly guided tour.  
 - [freeCodeCamp React Native Course](https://www.youtube.com/watch?v=0-S5a0eXPoc) – a full course in one video.
 
----
-
-*Problem statements coming soon.*

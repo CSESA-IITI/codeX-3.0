@@ -6,6 +6,14 @@ Work through the resources roughly in order: understand the fundamentals first, 
 
 ---
 
+## Problem Statements
+
+[Open the Web3 problem statement booklet](./web3_research_paper_revised.pdf) for six challenges across four levels, from student records and ERC-20 tokens to full-stack applications. The booklet includes requirements, acceptance tests, submission guidance, and an evaluation rubric.
+
+Use local or testnet assets only. Levels 3 and 4 require a frontend.
+
+---
+
 ## Resources
 
 ### Prerequisite
@@ -21,6 +29,3 @@ Work through the resources roughly in order: understand the fundamentals first, 
 ### Full-stack Web3
 - [Blockchain to Full-Stack Web3 Tutorial](https://www.youtube.com/watch?v=gyMwXuJrbJQ) – an all-in-one course taking you from basics to full dApps.
 
----
-
-*Problem statements coming soon.*

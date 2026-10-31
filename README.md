@@ -47,11 +47,12 @@ Choose one or more domains that interest you:
 - [App Development](./App%20Development/README.md)  
 - [Blockchain](./Blockchain/README.md)  
 - [Cybersecurity](./Cybersecurity/README.md)  
+- [Game Development](./GameDev/README.md)  
 - [LLD (Low-Level Design)](./LLD%20%28Low-Level%20Design%29/README.md)  
 - [Web Development](./Web%20Development/README.md)  
+- [Quantum Computing](./QC/README.md)  
 
-Each domain contains a `README.md` with a short introduction and curated learning resources.  
-Problem statements will be added soon.
+Each domain README introduces its learning resources and available problem statements.
 
 ---
 

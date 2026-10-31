@@ -27,6 +27,12 @@ Download your experiment log (`experiment_log.csv`) before the Colab session end
 
 ---
 
+## PS1 - Supervised and Unsupervised Learning
+
+[Read PS1](./PS1.md) to build and evaluate a cats-versus-dogs image classifier and cluster MNIST digits. The brief covers the required models, visualizations, and evaluation metrics.
+
+---
+
 ## Resources
 
 ### Start here
@@ -48,6 +54,3 @@ Download your experiment log (`experiment_log.csv`) before the Colab session end
 - [CampusX – 100 Days of Deep Learning](https://www.youtube.com/playlist?list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn) – highly detailed but long; optional.  
 - [DataTrek roadmap](https://www.linkedin.com/posts/mungoliabhishek81_datatrek-datascience-machinelearning-activity-7249659363592658944-92CR) – a broader data science roadmap to explore.
 
----
-
-*More problem statements coming soon.*

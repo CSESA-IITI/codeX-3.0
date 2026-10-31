@@ -6,6 +6,16 @@ CTFs are the best way in: each challenge hides a "flag" behind a security puzzle
 
 ---
 
+## Start Here
+
+- [Introduction to Cybersecurity and CTFs](./01_introduction.md)
+- [Problem Statement: Suspicious Login Activity Analyzer](./02_problem_statement.md)
+- [Project Learning Resources](./03_resources.md)
+
+The project asks you to analyze login logs, identify suspicious patterns, and explain the resulting alerts.
+
+---
+
 ## Resources
 
 ### Beginner-friendly platforms
@@ -26,6 +36,3 @@ CTFs are the best way in: each challenge hides a "flag" behind a security puzzle
 - [RapidTables](https://www.rapidtables.com/) – quick calculators and converters.  
 - [DogBolt](https://dogbolt.com/) – decompiler explorer for analysing compiled binaries.
 
----
-
-*Problem statements coming soon.*
